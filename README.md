@@ -8,12 +8,12 @@ One of the first simple apps I created while on my journey to learn flutter.
 
 
 ### Shotscreen
-  <img src='https://github.com/dinkmsd/flutter_chat_app/assets/85824110/ea992114-d6b6-4feb-ae94-ce1591d6d4d6' width='250' height='510'/>
-  <img src='https://github.com/dinkmsd/flutter_chat_app/assets/85824110/adfbec7b-7a8e-4d1a-a7e6-0789c2061e77' width='250' height='510'/>
+  <img src='https://github.com/dinkmsd/chat_app/assets/85824110/ea992114-d6b6-4feb-ae94-ce1591d6d4d6' width='250' height='510'/>
+  <img src='https://github.com/dinkmsd/chat_app/assets/85824110/adfbec7b-7a8e-4d1a-a7e6-0789c2061e77' width='250' height='510'/>
  
-  <img src='https://github.com/dinkmsd/flutter_chat_app/assets/85824110/b032ea16-a02b-4ea6-a159-4376ff0d039e' width='250' height='510'/>
+  <img src='https://github.com/dinkmsd/chat_app/assets/85824110/b032ea16-a02b-4ea6-a159-4376ff0d039e' width='250' height='510'/>
  
-  <img src='https://github.com/dinkmsd/flutter_chat_app/assets/85824110/01b0b81a-3575-4cf9-8785-b0c203089bcd' width='250' height='510'/>
+  <img src='https://github.com/dinkmsd/chat_app/assets/85824110/01b0b81a-3575-4cf9-8785-b0c203089bcd' width='250' height='510'/>
  
   
 ### Dependencies
@@ -38,11 +38,11 @@ One of the first simple apps I created while on my journey to learn flutter.
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/dinkmsd/flutter_chat_app.git
+git clone https://github.com/dinkmsd/chat_app.git
 ```
   ##### Move to the desired folder
 ```bash
-cd \flutter_chat_app
+cd \chat_app
 ```
 
   ##### To run the app, simply write
