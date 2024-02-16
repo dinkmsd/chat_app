@@ -1,4 +1,4 @@
-# Chatter App
+# Chat App
 
 This is a flutter based modern messaging app where users can sign up and log in to chat with their friends, family, colleagues among groups with enriched User-Experience.
 
@@ -57,47 +57,6 @@ flutter run
 - Some knowledge of Dart and how to use Flutter is preferrable for a head start.
 - UI/UX Design skills are appreciable but not mandatory
 - Some idea about Firebase or willingness to learn it
-
-### How to make a Pull Request:
-
-**1.** Fork [this](https://github.com/dinkmsd/flutter_chat_app.git) repository.
-
-**2.** Clone the forked repository.
-
-```terminal
-git clone https://github.com/<your-github-username>/flutter_chat_app
-```
-
-**3.** Navigate to the project directory.
-
-```terminal
-cd flutter_chat_app
-```
-
-**4.** Checkout from master to development branch.
-
-```terminal
-git checkout development
-```
-**5.** Make changes in source code.
-
-**6.** Commit your changes.
-
-```terminal
-  git add .
-  git commit -m "<your_commit_message>"
-```
-
-**7.** Push your local branch to the remote repository.
-
-```terminal
-git push -u origin development
-```
-
-**8.** Create a Pull Request!
-
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chat App]  (https://github.com/dinkmsd/flutter_chat_app.git) project.
-
 
 ## Tasks and Features
 
